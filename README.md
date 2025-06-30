@@ -1,2 +1,2 @@
 # XsltRunner
-A simple project for running XSL Transformations
+A simple project for running XSL Transformations VS Code
